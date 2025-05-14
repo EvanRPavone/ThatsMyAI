@@ -1,0 +1,17 @@
+# virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# config and API keys
+.env
+config/user_config.json
+config/personality.json
+
+# generated stuff
+pdf_exports/
+memory/
+logs/
+
+# OS stuff
+.DS_Store
