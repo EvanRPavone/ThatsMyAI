@@ -1,6 +1,6 @@
 # ThatsMyAI
 
-A desktop personal assistant powered by GPT-4. This AI sidekick remembers your conversations, exports clean session summaries as PDFs, and runs entirely from your machine — no browser needed.
+A desktop personal assistant powered by GPT-4. This AI sidekick remembers your conversations, exports clean session summaries as PDFs, and runs entirely from your machine, no browser needed.
 
 ---
 
